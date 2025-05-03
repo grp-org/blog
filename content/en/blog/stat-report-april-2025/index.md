@@ -1,7 +1,7 @@
 ---
 author: 'Léo Peyronnet'
 title: 'Stat report for Léo Corporation in April 2025'
-date: 2025-04-01
+date: 2025-05-01
 description: 'The stat report for April 2025 is now available.'
 tags: ['stats', 'leo corporation']
 thumbnail: /blog/stat-report-april-2025/banner.png
